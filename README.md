@@ -12,3 +12,6 @@ This repository integrates an accelerometer with an ESP 32, aiming to make it po
 | GND | GND |
 | SCL | GPIO 22 |
 | SDA | GPIO 21 |
+
+# Circuit
+![circuit](https://github.com/user-attachments/assets/d66115a5-682b-4575-8e05-e360a3b2baff)
